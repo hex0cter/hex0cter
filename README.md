@@ -1,6 +1,6 @@
 <h3 align="left">GitHub Stats:</h3>
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hex0cter&show_icons=true&theme=radical&hide_title=true&count_private=true)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hex0cter&show_icons=true&theme=dark&hide_title=true&count_private=true)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
