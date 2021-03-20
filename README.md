@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hex0cter&theme=default&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/hex0cter/hex0cter)
 
 ![Daniel Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=hex0cter&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hex0cter&layout=compact)](https://github.com/hex0cter/github-readme-stats)
