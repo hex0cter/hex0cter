@@ -6,7 +6,7 @@
     <img src="https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_bigger.png" alt="Python" title="Python" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" titlte="Javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" width="40" height="40"/> 
   </a> 
   <a href="https://www.ruby-lang.org/en/" target="_blank"> 
     <img src="https://1.bp.blogspot.com/-QXAC0U8Et14/XPfX_inXrPI/AAAAAAAAABw/LgANsZDaL3Eno5iW3VgJF1EhEKwMoWbqQCLcBGAs/s1600/ruby-226055.png" alt="Ruby" title="Ruby" width="40" height="40"/>     
@@ -15,7 +15,7 @@
     <img src="https://img.informer.com/icons_mac/png/128/269/269561.png" alt="Appium" title="Appium" width="40" height="40"/> 
   </a> 
   <a href="https://aws.amazon.com" target="_blank"> 
-    <img src="https://assets.cloud.im/prod/ux1/images/logos/aws/aws-2x.png" alt="AWS" title="AWS" width="40" height="40"/> 
+    <img src="https://assets.cloud.im/prod/ux1/images/logos/aws/aws-2x.png" alt="Amazon Web service" title="Amazon Web service" width="40" height="40"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="40" height="40"/> 
