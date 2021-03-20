@@ -1,4 +1,7 @@
 <h3 align="left">GitHub Stats:</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hex0cter&show_icons=true&theme=radical&hide_title=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hex0cter&theme=default&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
 
 <h3 align="left">Languages and Tools:</h3>
