@@ -11,9 +11,6 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank"> 
     <img src="https://1.bp.blogspot.com/-QXAC0U8Et14/XPfX_inXrPI/AAAAAAAAABw/LgANsZDaL3Eno5iW3VgJF1EhEKwMoWbqQCLcBGAs/s1600/ruby-226055.png" alt="Ruby" title="Ruby" width="40" height="40"/>     
   </a> 
-  <a href="https://appium.io" target="_blank"> 
-    <img src="https://img.informer.com/icons_mac/png/128/269/269561.png" alt="Appium" title="Appium" width="40" height="40"/> 
-  </a> 
   <a href="https://aws.amazon.com" target="_blank"> 
     <img src="https://assets.cloud.im/prod/ux1/images/logos/aws/aws-2x.png" alt="Amazon Web service" title="Amazon Web service" width="40" height="40"/> 
   </a> 
@@ -28,6 +25,9 @@
   </a> 
   <a href="https://www.selenium.dev" target="_blank"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" title="Selenium" width="40" height="40"/> 
+  </a>
+  <a href="https://appium.io" target="_blank"> 
+    <img src="https://img.informer.com/icons_mac/png/128/269/269561.png" alt="Appium" title="Appium" width="40" height="40"/> 
   </a> 
 </p>
 
