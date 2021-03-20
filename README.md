@@ -1,4 +1,5 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hex0cter&theme=default&show_icons=true&include_all_commits=true&count_private=true)
+<h3 align="left">GitHub Stats:</h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hex0cter&theme=default&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
