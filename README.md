@@ -4,9 +4,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://playwright.dev" target="_blank"> 
-    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" title="Playwright" width="40" height="40"/> 
-  </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://docs.python.org/3/_static/py.svg" alt="Python" title="Python" width="40" height="40"/> 
   </a> 
@@ -33,6 +30,9 @@
   </a>
   <a href="https://appium.io" target="_blank"> 
     <img src="https://img.informer.com/icons_mac/png/128/269/269561.png" alt="Appium" title="Appium" width="40" height="40"/> 
+  </a> 
+    <a href="https://playwright.dev" target="_blank"> 
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" title="Playwright" width="40" height="40"/> 
   </a> 
 </p>
 
