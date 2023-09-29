@@ -8,7 +8,7 @@
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" title="Playwright" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://www.python.org/static/img/python-logo.png" alt="Python" title="Python" width="40" height="40"/> 
+    <img src="https://docs.python.org/3/_static/py.svg" alt="Python" title="Python" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" width="40" height="40"/> 
