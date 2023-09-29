@@ -4,8 +4,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://playwright.dev" target="_blank"> 
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" title="Playwright" width="40" height="40"/> 
+  </a> 
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_bigger.png" alt="Python" title="Python" width="40" height="40"/> 
+    <img src="https://www.python.org/static/img/python-logo.png" alt="Python" title="Python" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" width="40" height="40"/> 
