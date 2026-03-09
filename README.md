@@ -1,9 +1,5 @@
 # Hi there, I'm Daniel Han 👋
 
-### Team Lead · Test Automation Engineer
-
-📍 Based in **Sweden** 🇸🇪
-
 Over **20 years** of experience in software development and testing, passionate about building teams, cultivating a collaborative culture, and driving product quality.
 
 ---
@@ -40,15 +36,10 @@ Over **20 years** of experience in software development and testing, passionate 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hex0cter&show_icons=true&bg_color=0a0f1c&title_color=5b90e0&text_color=e8eae8&icon_color=5b90e0&hide_border=true&count_private=true&cache_seconds=86400" alt="Daniel's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hex0cter&layout=compact&langs_count=8&bg_color=0a0f1c&title_color=5b90e0&text_color=e8eae8&icon_color=5b90e0&hide_border=true&cache_seconds=86400" alt="Daniel's Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hex0cter&theme=github_dark" alt="Daniel's GitHub Profile Details" />
 </p>
-
----
-
 <p align="center">
-  <a href="https://danielhan.dev" target="_blank">🌐 Website</a> •
-  <a href="https://www.linkedin.com/in/xdanielhan" target="_blank">👔 LinkedIn</a> •
-  <a href="mailto:danielnpu@gmail.com">📧 Email</a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hex0cter&theme=github_dark" alt="Daniel's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hex0cter&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hex0cter&theme=github_dark" alt="Most Commit Language" />
 </p>
-
