@@ -41,5 +41,4 @@ Over **20 years** of experience in software development and testing, passionate 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hex0cter&theme=github_dark" alt="Daniel's GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hex0cter&theme=github_dark" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hex0cter&theme=github_dark" alt="Most Commit Language" />
 </p>
