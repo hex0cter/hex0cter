@@ -1,38 +1,54 @@
-<h3 align="left">GitHub Stats:</h3>
+# Hi there, I'm Daniel Han 👋
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hex0cter&show_icons=true&theme=dark&hide_title=true&count_private=true)
+### Team Lead · Test Automation Engineer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://docs.python.org/3/_static/py.svg" alt="Python" title="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.ruby-lang.org/en/" target="_blank"> 
-    <img src="https://1.bp.blogspot.com/-QXAC0U8Et14/XPfX_inXrPI/AAAAAAAAABw/LgANsZDaL3Eno5iW3VgJF1EhEKwMoWbqQCLcBGAs/s1600/ruby-226055.png" alt="Ruby" title="Ruby" width="40" height="40"/>     
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank"> 
-    <img src="https://assets.cloud.im/prod/ux1/images/logos/aws/aws-2x.png" alt="Amazon Web service" title="Amazon Web service" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.selenium.dev" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" title="Selenium" width="40" height="40"/> 
-  </a>
-  <a href="https://appium.io" target="_blank"> 
-    <img src="https://img.informer.com/icons_mac/png/128/269/269561.png" alt="Appium" title="Appium" width="40" height="40"/> 
-  </a> 
-    <a href="https://playwright.dev" target="_blank"> 
-    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" title="Playwright" width="40" height="40"/> 
-  </a> 
+📍 Based in **Sweden** 🇸🇪
+
+Over **20 years** of experience in software development and testing, passionate about building teams, cultivating a collaborative culture, and driving product quality.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <br>
+  <img src="https://img.shields.io/badge/-Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/-Appium-662da5?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+  <img src="https://img.shields.io/badge/-TestCafe-000000?style=for-the-badge&logo=testcafe&logoColor=white" alt="TestCafe" />
+  <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <br>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <br>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hex0cter&show_icons=true&bg_color=0a0f1c&title_color=5b90e0&text_color=e8eae8&icon_color=5b90e0&hide_border=true&count_private=true&cache_seconds=86400" alt="Daniel's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hex0cter&layout=compact&langs_count=8&bg_color=0a0f1c&title_color=5b90e0&text_color=e8eae8&icon_color=5b90e0&hide_border=true&cache_seconds=86400" alt="Daniel's Top Languages" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://danielhan.dev" target="_blank">🌐 Website</a> •
+  <a href="https://www.linkedin.com/in/xdanielhan" target="_blank">👔 LinkedIn</a> •
+  <a href="mailto:danielnpu@gmail.com">📧 Email</a>
 </p>
 
